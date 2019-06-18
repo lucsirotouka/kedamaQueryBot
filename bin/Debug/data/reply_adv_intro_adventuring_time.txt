@@ -1,0 +1,5 @@
+玩家 *{player_id}* 尚未完成『探索的时光』进度。
+尚未游历的生物群系如下：
+{unfinished_content}
+数据日期：{data_time}
+*提示*：[点击此处](https://minecraft-zh.gamepedia.com/%E7%94%9F%E7%89%A9%E7%BE%A4%E7%B3%BB)查看 Minecraft Wiki 关于生物群系的介绍。

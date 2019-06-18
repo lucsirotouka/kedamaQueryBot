@@ -1,0 +1,4 @@
+玩家 *{player_id}* 尚未完成『成双成对』进度。
+尚未繁育的动物如下：
+{unfinished_content}
+数据日期：{data_time}

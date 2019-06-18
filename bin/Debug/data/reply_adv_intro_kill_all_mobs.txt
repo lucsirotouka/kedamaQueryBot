@@ -1,0 +1,4 @@
+玩家 *{player_id}* 尚未完成『怪物狩猎完成』进度。
+尚未击杀的怪物如下：
+{unfinished_content}
+数据日期：{data_time}

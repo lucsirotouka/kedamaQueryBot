@@ -1,0 +1,12 @@
+#成就条件检索列表：成双成对（bred_all_animals）
+chicken,鸡
+cow,牛
+horse,马
+llama,羊驼
+mooshroom,哞菇
+ocelot,豹猫
+pig,猪
+rabbit,兔
+sheep,羊
+turtle,海龟
+wolf,狼

@@ -1,0 +1,9 @@
+*玩家 {player_id} 基本信息*
+*玩家UUID*：{uuid}
+*首次登录*：{time_create}
+*注册迄今*：{days_created}
+*最近活动*：{time_lastseen}
+*游戏时长*：{time_playtime}
+*是否封禁*：{is_banned}
+*曾用名称*：{history_names}
+*数据时间*：{data_time}

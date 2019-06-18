@@ -1,0 +1,5 @@
+*查询玩家物品、方块挖掘/制作/拾取/丢弃情况*
+用法：/item _<玩家ID> <物品名称>_
+*物品名称*可使用物品或方块的英文名称，如：*diamond_ore*、*bow*等。
+*提示1*：[点击此处](https://minecraft-zh.gamepedia.com/%E6%96%B9%E5%9D%97)查看 Minecraft Wiki 关于方块的介绍。
+*提示2*：[点击此处](https://minecraft-zh.gamepedia.com/%E7%89%A9%E5%93%81)查看 Minecraft Wiki 关于物品的介绍。
